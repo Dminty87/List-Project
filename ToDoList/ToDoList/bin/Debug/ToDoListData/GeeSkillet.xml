@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <List name="GeeSkillet">
-  <ListItem><![CDATA[test]]></ListItem>
-  <ListItem><![CDATA[item 2]]></ListItem>
+  <ListItem>test</ListItem>
+  
 </List>
